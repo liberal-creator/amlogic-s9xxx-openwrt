@@ -215,7 +215,7 @@ on:
       builder_name:
         description: "Set OpenWrt builder signature."
         required: false
-        default: "ophub"
+        default: "Immortalwrt-v23.05.3"
         type: choice
         options:
           - ophub
